@@ -29,7 +29,7 @@ class UserInput extends Component {
             onChange={this.handleInputChange}
             placeholder="username"
           />
-        </p>
+        </p> 
         <p>
           <input
             type="text"
