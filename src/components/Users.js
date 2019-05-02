@@ -16,7 +16,7 @@ class Users extends Component {
               <li key={i}>
                   {user.username}
               </li>
-            )
+            ) 
           })}
           {this.props.userCount} */}
 
